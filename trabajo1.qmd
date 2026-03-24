@@ -1,0 +1,108 @@
+---
+title: "practico 1"
+author: "tamara"
+date: today 
+format: html
+editor: visual
+lang: es 
+theme: darkly
+toc: true
+---
+
+## Trabajo 1
+
+Primer práctico de quarto en el **optativo**
+
+## Primer paso
+
+Acá va el paso 1
+
+Qué hacer en este paso:
+
+1.  una
+2.  lista
+3.  con
+4.  números
+
+### Continuación primer paso
+
+Acá va el paso 1.2
+
+qué hacer en este paso:
+
+-   una
+
+-   lista
+
+-   para
+
+-   prácticar
+
+## Segundo paso
+
+Acá va el paso 2
+
+Dos negritas son para **destacar**
+
+Una negrita es para la *cursiva*
+
+### Continuación segundo paso
+
+Qué hacer en este paso:
+
+Subir una imágen
+
+![Imagen online](https://kitchenacademy.es/wp-content/uploads/Mandarina.jpg)
+
+## Cargar paquetes
+
+```{r}
+pacman::p_load(sjlabelled,
+               dplyr, #Manipulacion de datos
+              stargazer, #Tablas
+              sjmisc, # Tablas
+              summarytools, # Tablas
+              kableExtra, #Tablas
+              sjPlot, #Tablas y gráficos
+              corrplot, # Correlaciones
+              sessioninfo, # Información de la sesión de trabajo
+              ggplot2) # Para la mayoría de los gráficos
+```
+
+## Cargar base de datos
+
+```{r}
+load(url("https://github.com/Kevin-carrasco/R-data-analisis/raw/main/files/data/latinobarometro_total.RData")) #Cargar base de datos
+proc_data$idenpa <- as_factor(proc_data$idenpa)
+```
+
+## Descriptivos
+
+```{r}
+#| label: tbl-sjmisc
+#| tbl-cap: "Descriptivos con sjmisc"
+
+sjmisc::descr(proc_data,
+        show = c("label","range", "mean", "sd", "NA.prc", "n"))%>% # Selecciona estadísticos
+        kable(.,"markdown") # Esto es para que se vea bien en quarto
+```
+
+esta es nuestra @tbl-sjmisc
+
+## Gráficos
+
+```{r}
+#| label: fig-graph
+
+#| fig-cap: “Plots”
+
+graph1<-ggplot(proc_data, aes(x = idenpa, y = conf_inst)) +
+  geom_boxplot() +
+  labs(x = "País", y = "Confianza en instituciones") +
+  theme_minimal()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+graph1
+```
+
+este es nuestra @fig-graph

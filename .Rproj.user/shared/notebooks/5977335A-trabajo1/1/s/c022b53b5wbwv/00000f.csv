@@ -1,0 +1,15 @@
+"0","#| label: fig-graph"
+"0",""
+"0","#| fig-cap: “Plots”"
+"0",""
+"0","graph1<-ggplot(proc_data, aes(x = idenpa, y = conf_inst)) +"
+"0","  geom_boxplot() +"
+"0","  labs(x = ""País"", y = ""Confianza en instituciones"") +"
+"0","  theme_minimal()+"
+"0","  theme(axis.text.x = element_text(angle = 45, hjust = 1))"
+"0",""
+"0","graph1"
+"2","Aviso:"
+"2"," [38;5;232mRemoved 1436 rows containing non-finite outside the scale range
+(`stat_boxplot()`).[39m
+"
