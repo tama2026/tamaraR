@@ -1,0 +1,110 @@
+{
+    "sources": [
+        {
+            "URL": "https://hdl.handle.net/10366/142679",
+            "author": [
+                {
+                    "family": "Mackenna",
+                    "given": "Bernardo"
+                }
+            ],
+            "container-title": "Revista Lationamericana de Opinión Pública",
+            "id": "mackenna_composicion_2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        6
+                    ]
+                ]
+            },
+            "publisher": "Ediciones Universidad de Salamanca (España)",
+            "publisher-place": "España",
+            "title": "Composición del electorado en elecciones con voto obligatorio y voluntario: Un estudio cuasi experimental de la participación electoral en Chile",
+            "title-short": "Composición del electorado en elecciones con voto obligatorio y voluntario",
+            "type": "article-journal",
+            "volume": "vol 5"
+        },
+        {
+            "DOI": "10.15359/ree.20-1.17",
+            "ISSN": "1409-4258",
+            "URL": "https://www.revistas.una.ac.cr/index.php/EDUCARE/article/view/7497",
+            "abstract": "The article accounts for qualitative research proposed to identify the perceptions of students who are close to graduating from middle school about politicians and political parties, as well as the origin and reasons for their perceptions.   The sample included fourth year middle students belonging to twelve educational institutions located in the communes of Concepción metropolitan area, Chile. In-depth interviews and focus groups, protecting gender parity, were conducted to collect information. These results suggest that sample students, while appreciating the existence of politicians in society, have a negative and critical view of their performance, as well as the parties they represent. Students blame the politicians themselves and the policies of their perceptions; they reproach them lack of commitment, consistency, transparency and harmony. In addition, students blame the performance of politicians for their reactions against them. They also argue that political parties protect corporate interests rather than those from the citizenship, who cries out for greater concern regarding their problems.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        4,
+                        7
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Muñoz-Labraña",
+                    "given": "Carlos"
+                },
+                {
+                    "family": "Martínez-Rodríguez",
+                    "given": "Rosendo"
+                },
+                {
+                    "family": "Muñoz-Grandón",
+                    "given": "Carlos"
+                }
+            ],
+            "container-title": "Rev. Electr. Educare",
+            "id": "munoz-labrana_perceptions_2016",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        1
+                    ]
+                ]
+            },
+            "page": "1-16",
+            "title": "Perceptions of Students about Politics, Political Parties and Individuals Devoted to Politics when Ending High School Education in Chile",
+            "type": "article-journal",
+            "volume": "20"
+        },
+        {
+            "DOI": "10.11144/Javeriana.PAPO19-1.edca",
+            "ISSN": "2145-0617, 0122-4409",
+            "URL": "http://revistas.javeriana.edu.co/index.php/papelpol/article/view/10854",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        4,
+                        7
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Mardones A.",
+                    "given": "Roberto"
+                }
+            ],
+            "container-title": "Pap.polit.",
+            "id": "mardones_a_encrucijada_2014",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014,
+                        11
+                    ]
+                ]
+            },
+            "page": "39-59",
+            "title": "La encrucijada de la democracia chilena: Una aproximación conceptual a la desafección política.",
+            "title-short": "La encrucijada de la democracia chilena",
+            "type": "article-journal",
+            "volume": "19"
+        }
+    ],
+    "project_biblios": []
+}

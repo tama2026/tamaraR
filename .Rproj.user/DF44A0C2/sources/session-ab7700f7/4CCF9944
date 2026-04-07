@@ -1,12 +1,12 @@
 {
-    "id": "2FC2B877",
-    "path": "~/tamaraR/trabajo1.qmd",
-    "project_path": "trabajo1.qmd",
+    "id": "4CCF9944",
+    "path": "C:/Users/vilch/Downloads/Educación y política_files/educacionypolitica/Educación y política.qmd",
+    "project_path": null,
     "type": "quarto_markdown",
-    "hash": "1016008818",
+    "hash": "2018019356",
     "contents": "",
     "dirty": false,
-    "created": 1774385740241.0,
+    "created": 1775592991592.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "1800:3163.333251953125",
-        "cursorPosition": "93,0",
+        "rmdVisualModeLocation": "3188:1141.3333740234375",
+        "cursorPosition": "27,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1774387558,
+    "lastKnownWriteTime": 1775595911,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1774387558608,
+    "last_content_update": 1775595911088,
     "read_only": false,
     "read_only_alternatives": []
 }

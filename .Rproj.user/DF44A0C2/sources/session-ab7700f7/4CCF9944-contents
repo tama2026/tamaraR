@@ -1,0 +1,30 @@
+---
+title: "Educación y Política"
+format: html
+editor: visual
+bibliography: educacionypolitica.bib
+link-citations: true
+leng: esp 
+---
+
+# Nivel educativo y desafección: Un análisis de la brecha de interés político en Chile.
+
+Por: Tamara Vilches
+
+## Introducción.
+
+El siguiente trabajo trabaja el tema de cómo la influencia de la trayectoria educativa afecta en la configuración del interés político, la percepción de las instituciones y la participación electoral en Chile. Para este trabajo se piensa utilizar la base de datos de ELSOC.
+
+## Planteamiento del problema. 
+
+En las últimas décadas, la democracia chilena ha transitado por un escenario de transformaciones estructurales que han puesto en evidencia una profunda desconexión entre la ciudadanía y sus instituciones. Este fenómeno, el cual es definido como una *encrucijada conceptual* [@mardones_a_encrucijada_2014], sugiere que la desafección política no es un evento azaroso, sino que es un proceso arraigado en la estructura social. En este contexto, el **nivel educativo** emerge como una variable crítica para entender por qué ciertos sectores de la población mantienen un interés activo en la esfera pública mientras otros se repliegan hacia la apatía.
+
+El problema central radica en que la desigualdad educativa en Chile se traduce en una desigualdad de capacidades políticas. Si el sistema educativo no logra dotar a los ciudadanos de las herramientas necesarias para procesar la complejidad del sistema, la democracia corre el riesgo de volverse excluyente. Por tanto, este trabajo busca examinar cómo la experiencia educativa moldea el **interés político**, actuando como el principal predictor de la integración o alineación del ciudanado/a respecto al poder político nacional.
+
+## Teoría de la socialización y educación secundaria. 
+
+La construcción del interés político no es un proceso que comience con la mayoría de edad, sino que se gesta durante la etapa escolar mediante la socialización política primaria. Sobre esto, [@munoz-labrana_perceptions_2016] demuestran que, al finalizar la educación secundaria en Chile, el estudiantado ya posee percepciones profundamente críticas y a menudo negativas sobre los partidos y los actores políticos. Esta estapa es determinante, pues si el nivel educativo alcanzado hasta ese punto no logra fomentar una comprensión funcional de la política, la desconfianza tiende a derivar en una desafección estructural [@mardones_a_encrucijada_2014]. Así, el sistema educativo actúa como un primer filtro: mientras que una formación sólida puede transformar el espíritu crítico en participación informada, una trayectoria educativa precaria suele reforzar la sensación de que la política es un ámbito ajeno e inútil, anulando el interés político antes incluso de que el individuo ingrese al padrón electoral.
+
+## Hipótesis (tentativa) 
+
+El nivel educativo alcanzado por por los ciudadanos chilenos determina directamente su grado de interés político y su disposición a participar, por lo que a mayor capital educativo, mayor es la eficacia política percibida y menor es la desafección. Lo que explica las variaciones en la composición del electorado según el régimen de votación [@mackenna2015].
